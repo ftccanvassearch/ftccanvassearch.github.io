@@ -1,0 +1,9 @@
+#roundContainer{
+    padding: 50px;
+    border-radius: 2em;
+    justify-content: center;
+    align-content: center;
+}
+body{
+    background-color: lightgray;
+}
